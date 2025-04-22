@@ -1,0 +1,25 @@
+feature_description,overall_mean,segment_mean,segment_id
+Likelihood of playing fantasy sports,0.445,0.094,1
+Likelihood of Interest in Football,0.218,0.076,1
+Household income,208310.1345338983,246136.8978201635,1
+Age of Individual,43.96663136,36.40599455040872,1
+How much money a customer spends on purchases,267.1189194915254,223.5085013623978,1
+Tendency to Take Risks in Financial Matters,0.4159216101694915,0.7708131868131869,2
+Likelihood of Interest in Sportsbook Gaming,0.4856355932203389,0.2439560439560439,2
+Age of Individual,43.96663136,59.91648351648352,2
+Household income,208310.1345338983,135217.23516483518,2
+How often a customer makes a purchase,142.8488718220339,185.6144615384616,2
+How much money a customer spends on purchases,267.1189194915254,441.5512307692308,3
+Likelihood of interest in Video Games,0.737,0.0,3
+Number of games attended in the last year,27.266419491525426,21.369230769230768,3
+How often a customer makes a purchase,142.8488718220339,65.32683076923077,3
+Tendency to Take Risks in Financial Matters,0.4159216101694915,0.2410153846153846,3
+Likelihood of interest in Football,0.218,0.941,4
+Likelihood of Interest in Sportsbook Gaming,0.4856355932203389,0.7856417112299465,4
+Age of Individual,43.96663136,41.32352941,4
+Household income,208310.1345338983,223921.7567,4
+How often a customer makes a purchase,142.8488718220339,168.4374064171123,4
+segment share in percentage,,24,1
+segment share in percentage,,31,2
+segment share in percentage,,32,3
+segment share in percentage,,13,4
